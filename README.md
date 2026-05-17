@@ -16,7 +16,7 @@ Repository ini berisi dokumentasi perjalanan saya dalam mempelajari Python dari 
 |---|---|---|
 | Day 01 | Python Dasar: Variable, Tipe Data, Input, Output | Selesai |
 | Day 02 | Conditional Statement | Selesai |
-| Day 03 | Looping | Belum |
+| Day 03 | Looping | Selesai |
 | Day 04 | List | Belum |
 | Day 05 | Dictionary | Belum |
 
